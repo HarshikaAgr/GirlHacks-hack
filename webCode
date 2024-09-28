@@ -4,10 +4,11 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="initial-scale=1.0, width=device-width">
-    <title>Enter Title</title>
+    <title>Web Page</title>
   </head>
   
   <body>
+    <h1>Game Title</h1>
     <main>
       <p>enter the code here to start the game</p>
     </main>
