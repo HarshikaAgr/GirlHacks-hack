@@ -97,7 +97,6 @@ if decision == 1:
 else:
   print(f"You decide not to look back and continue forward before the next part of the cycle begins.")
 
-#Write code for trivia 
-  
+#Write code for trivia and also one you choose 3 bad choices, you have to quit game or restart
 
 #This is the end screen of the game. The player can select whether or not they want to see the decisions they have made while playing. If they say yes, it will iterate through the selects list and print out each choice that was made.  
