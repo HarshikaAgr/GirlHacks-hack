@@ -20,6 +20,10 @@ header {
     text-align: center;
 }
 
+br {
+    display: block;
+    margin: 10px 0;
+ }
 
 h1 {
     background-color: #23082e;
