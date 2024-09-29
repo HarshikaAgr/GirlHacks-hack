@@ -90,7 +90,7 @@ for i in range(9):
 
 #Different endings are reached based on the value of the tally variable after the game ends.
 if tally <= 5:
-  print("Everything around you begins to glow, and a warm breeze hits your face. You close your eyes, and a voice whispers to you: \n'You have broken the cycle. You are now free.'\nSuddenly, memories of the past cycles flood into your mind, with all the many choices you have made as your previous incarnations. Your soul cried out in joy, and you soared back to the stars, the place where your journey truly began. You no longer have to live the same cycle for eternity. The prize of freedom made you feel light, and you felt energy coursing throughout your entire being. \n'Welcome, child.'\nAn all too familiar voice behind you sounds throughout the gentle cosmos.\n'You are now one of us, in charge of the cyclical lives of humanity. You are free, but that freedom comes with responsibility. You may now guide others as I have done for you. \nAnd thus, you set off to guide a new soul. \n'Good luck, " + str(name) + ".'")
+  print("After following the music into the random building, you find the disco ball in the center of the campus ballroom! It turns out that there was a hackathon going on, where the theme was Disco and they needed a disco ball so they had borrowed it from the club, but the club forgot. It was a huge misunderstanding, but thanks to you, the case was solved!")
 #This is the good ending
 
 if tally > 0 and tally < 12:
